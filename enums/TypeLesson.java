@@ -1,11 +1,11 @@
 package UniversitySystem.enums;
 
-public class TypeLesson {
+public enum TypeLesson {
 
-	public int Lecture;
+	Lecture,
 
-	public int Pratice;
+	Pratice,
 
-	public int Laboratory;
+	Laboratory;
 
 }
